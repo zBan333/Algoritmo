@@ -8,5 +8,5 @@ inicio
     escreva("Qual o level do gdrag? ")
     leia(level)
     resultado <- (1000 - valor) / (200 - level)
-    escreva(resultado)
-fimalgoritmocd
+    escreva(resultado:5:4)
+fimalgoritmo
