@@ -3,10 +3,9 @@ var
     contador: inteiro
 inicio
     contador <- 0
-    enquanto (contador <= 30) faca
+    repita
         escreva(contador, " ")
         contador <- contador + 3
-    fimenquanto
-    escreva(" Acabou!")
-
+    ate (contador > 30)
+    escreva("Acabou!")
 fimalgoritmo
