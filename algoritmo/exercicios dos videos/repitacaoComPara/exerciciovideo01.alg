@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Fibonacci"
 var
     contador,termoAtual, termoAnterior, termoProximo, quantidadeCasa: inteiro
 inicio
